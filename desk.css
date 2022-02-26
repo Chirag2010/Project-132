@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    width: 100%;
+    margin:0; 
+    font-size:20px;
+}
+a{
+    float:right; 
+    font-size: 15px !important;
+     margin: 5px; 
+    background: black; 
+    cursor: pointer; 
+    color: white;
+}
+.l{
+    margin-left: -80px;
+}
+canvas 
+{
+  border:5px solid white;
+  border-radius:20px;
+}
